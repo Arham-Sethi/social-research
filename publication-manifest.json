@@ -1,0 +1,42 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+    "bytes": 9
+  },
+  {
+    "path": "README.md",
+    "sha256": "9980ac11df257a3e4fc27058fca668e76ed6aa80604cfd29842f32262f036338",
+    "bytes": 289
+  },
+  {
+    "path": "krish-veshan/krish-veshan-dissertation.pdf",
+    "sha256": "433399790831022dd75e351e856506c1700415dc60bd35570f7730d908843a1a",
+    "bytes": 23189231
+  },
+  {
+    "path": "krish-veshan/krish-veshan-portfolio.pdf",
+    "sha256": "53def9ceb299eb71987c55c105252514dc9f78797e6e93f663e3f559512b693b",
+    "bytes": 56807
+  },
+  {
+    "path": "krish-veshan/README.md",
+    "sha256": "4548954f3d0636295b239d794d6f9cb76edb365a5c0f9e646518a5863fdb5a11",
+    "bytes": 284
+  },
+  {
+    "path": "krishi-connect/krishi-connect-dissertation.pdf",
+    "sha256": "49ad247f126a29c80b16ea3cb8d10f21fed6ebede5511e65f139f6837f86ac3b",
+    "bytes": 17101644
+  },
+  {
+    "path": "krishi-connect/krishi-connect-portfolio.pdf",
+    "sha256": "07bcefb7912e6dcc0ceebebabb27faef2eccd00fe1a9720a1d8f43307bc9a9a2",
+    "bytes": 59695
+  },
+  {
+    "path": "krishi-connect/README.md",
+    "sha256": "1aee19966df09b9e7c23961d62d7d19b5bc155c9b10dfe2f22f5300b23c15f6e",
+    "bytes": 254
+  }
+]
